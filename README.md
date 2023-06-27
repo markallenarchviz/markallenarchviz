@@ -54,6 +54,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/markallenarchviz/markallenarchviz/output/snake.svg" alt="Snake animation" />
 
 ###
