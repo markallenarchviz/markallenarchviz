@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Júnior com sólidos conhecimentos em diversas tecnologias e ferramentas do mundo do desenvolvimento web e mobile. Possuo experiência em React, Docker, C#, .NET Core, TypeScript, Styled-Components, MySQL e MongoDB.
+Desenvolvedor com sólidos conhecimentos em diversas tecnologias e ferramentas do mundo do desenvolvimento. Possuo conhecimentos em React, Docker, Vagrant, Go, TypeScript, Styled-Components, MySQL e MongoDB.
 
 
 ## 🌐 Socials:
